@@ -6,7 +6,7 @@
 
     <groupId>it.skrape</groupId>
     <artifactId>skrapeit-mockmvc</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>skrape{it} MockMvc Extension</name>
 
