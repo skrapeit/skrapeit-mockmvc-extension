@@ -11,7 +11,7 @@
     <name>skrape{it} MockMvc Extension</name>
 
     <description>
-        An Extension for MockMvc tests to enable meaningful testing of controllers that that produces HTML.
+        An Extension for MockMvc tests to enable meaningful testing of controllers that that produces HTML with the use of skrape{it}.
     </description>
     <url>https://docs.skrape.it</url>
 
