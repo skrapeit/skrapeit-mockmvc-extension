@@ -33,13 +33,13 @@
 
     <issueManagement>
         <system>github</system>
-        <url>https://github.com/skrapeit/skrape.it/issues</url>
+        <url>https://github.com/skrapeit/skrapeit-mockmvc-extension/issues</url>
     </issueManagement>
 
     <scm>
-        <connection>scm:git:git://github.com/skrapeit/skrape.it.git</connection>
-        <developerConnection>scm:git:ssh://github.com:skrapeit/skrape.it.git</developerConnection>
-        <url>https://github.com/skrapeit/skrape.it/tree/master</url>
+        <connection>scm:git:git://github.com/skrapeit/skrapeit-mockmvc-extension.git</connection>
+        <developerConnection>scm:git:ssh://github.com:skrapeit/skrapeit-mockmvc-extension.git</developerConnection>
+        <url>https://github.com/skrapeit/skrapeit-mockmvc-extension/tree/master</url>
     </scm>
 
     <packaging>jar</packaging>

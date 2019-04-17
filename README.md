@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/github/license/skrapeit/skrape.it.svg)](https://github.com/skrapeit/skrape.it/blob/master/LICENSE)
 [![JDK](https://img.shields.io/badge/jdk-8-green.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
+[![master build status](https://img.shields.io/travis/skrapeit/skrapeit-mockmvc-extension.svg?label=master)](https://travis-ci.org/skrapeit/skrapeit-mockmvc-extension)
+[![Known Vulnerabilities](https://snyk.io/test/github/skrapeit/skrapeit-mockmvc-extension/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/skrapeit/skrapeit-mockmvc-extension?targetFile=pom.xml)
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 [skrape{it} MockMvc Extension](https://docs.skrape.it)
