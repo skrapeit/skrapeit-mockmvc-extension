@@ -8,6 +8,7 @@
 
 [![master build status](https://img.shields.io/travis/skrapeit/skrapeit-mockmvc-extension.svg?label=master)](https://travis-ci.org/skrapeit/skrapeit-mockmvc-extension)
 [![Known Vulnerabilities](https://snyk.io/test/github/skrapeit/skrapeit-mockmvc-extension/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/skrapeit/skrapeit-mockmvc-extension?targetFile=pom.xml)
+[![Donate](https://img.shields.io/badge/-donate-blue.svg?logo=paypal)](https://www.paypal.me/skrapeit)
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 [skrape{it} MockMvc Extension](https://docs.skrape.it)
